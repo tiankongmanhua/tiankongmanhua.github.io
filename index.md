@@ -13,7 +13,7 @@
 </head>
 	<body>
     <div id="main"></div>
-</body
+</body>
 
 
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/tiankongmanhua/tiankongmanhua.github.io/publish.js?20220702"></script>

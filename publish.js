@@ -6,6 +6,7 @@ var newestUrls = [
 	'https://tiankong98.com',
 	'https://tiankong97.com',
 	'https://tiankong…….com',
+	'https://tiankong90.com',
 ];
 var otherUrls = [
     'https://skymanhua.cn',

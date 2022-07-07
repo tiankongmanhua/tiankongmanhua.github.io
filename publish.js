@@ -10,7 +10,7 @@ var newestUrls = [
 	'https://tiankongmanhua.github.io'
 ];
 var otherUrls = [
-    'https://cdn.jsdelivr.net/gh/tiankongmanhua/tiankongmanhua.github.io/fabuapp.apk'
+    'https://cdn.jsdelivr.net/gh/tiankongmanhua/tiankongmanhua.github.io/fabuapp.apk',
     'https://www.skymanhua.cn',
     'https://www.skymanhua.cc'
 ];

@@ -10,14 +10,14 @@ var newestUrls = [
 	'https://tiankongmanhua.github.io'
 ];
 var otherUrls = [
-    'https://cdn.jsdelivr.net/gh/tiankongmanhua/tiankongmanhua.github.io/fabuapp.apk',
+    'https://cdn.jsdelivr.net/gh/tiankongapp/tiankongapp.github.io/fabuapp.apk',
     'https://www.skymanhua.cn',
     'https://www.skymanhua.cc'
 ];
 var otherName = [
-    'App下载一',
-    'App下载二',
-    'App下载三'
+    'App直接下载',
+    'https://www.skymanhua.cn',
+    'https://www.skymanhua.cc'
 ];
 var foreverUrls = [
     'https://www.tiankongmanhua.com',

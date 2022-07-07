@@ -7,11 +7,11 @@ var newestUrls = [
 	'https://tiankong97.com',
 	'https://tiankong…….com',
 	'https://tiankong90.com',
+	'https://tiankongmanhua.github.io'
 ];
 var otherUrls = [
     'https://skymanhua.cn',
-	'https://skymanhua.cc',
-	'https://tiankongmanhua.github.io'
+	'https://skymanhua.cc'
 ];
 var foreverUrls = [
     'https://tiankongmanhua.com',

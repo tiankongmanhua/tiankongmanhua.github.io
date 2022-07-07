@@ -3,20 +3,21 @@ var emails = [
 ];
 var newestUrls = [
     'https://tiankong99.com',
-	'https://tiankong98.com',
-	'https://tiankong97.com',
-	'https://tiankong…….com',
-	'https://tiankong90.com',
+	'https://www.tiankong98.com',
+	'https://www.tiankong97.com',
+	'https://www.tiankong…….com',
+	'https://www.tiankong90.com',
 	'https://tiankongmanhua.github.io'
 ];
 var otherUrls = [
-    'https://skymanhua.cn',
-	'https://skymanhua.cc'
+    'https://cdn.jsdelivr.net/gh/tiankongmanhua/tiankongmanhua.github.io/fabuapp.apk'
+    'https://www.skymanhua.cn',
+    'https://www.skymanhua.cc'
 ];
 var foreverUrls = [
     'https://www.tiankongmanhua.com',
-	'https://天空漫画.com',
-	'https://www.skymanhua.com'
+    'https://www.skymanhua.com'
+    'https://www.天空漫画.com'
 ];
 var notices = [
     '* 我们推荐PC和Andriod手机用户使用Chrome(谷歌)浏览器访问，iPhone用户我们建议您使用手机自带Safria浏览器访问。',

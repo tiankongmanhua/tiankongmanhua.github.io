@@ -14,8 +14,9 @@ var otherUrls = [
 	'https://skymanhua.cc'
 ];
 var foreverUrls = [
-    'https://tiankongmanhua.com',
-	'https://天空漫画.com'
+    'https://www.tiankongmanhua.com',
+	'https://天空漫画.com',
+	'https://www.skymanhua.com'
 ];
 var notices = [
     '* 我们推荐PC和Andriod手机用户使用Chrome(谷歌)浏览器访问，iPhone用户我们建议您使用手机自带Safria浏览器访问。',

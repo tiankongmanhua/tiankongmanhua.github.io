@@ -14,6 +14,11 @@ var otherUrls = [
     'https://www.skymanhua.cn',
     'https://www.skymanhua.cc'
 ];
+var otherName = [
+    'App下载一',
+    'App下载二',
+    'App下载三'
+];
 var foreverUrls = [
     'https://www.tiankongmanhua.com',
     'https://www.skymanhua.com',
@@ -29,6 +34,7 @@ var notices = [
 function createFieldElem(option) {
     var title = option.title;
     var items = option.items;
+	var itemsname = option.itemsname;
     var plainText = option.plainText;
     var classStr = option.classStr;
     var text = option.text;
@@ -48,7 +54,11 @@ function createFieldElem(option) {
         if (plainText) {
             htmlStr = htmlStr + '<li>' + items[i] + '</li>';
         } else {
-            htmlStr = htmlStr + '<li><a href="' + items[i] + '" target="_blank">' + items[i] + '</a></li>';
+			if(itemsname){
+				htmlStr = htmlStr + '<li><a href="' + items[i] + '" target="_blank">' + itemsname[i] + '</a></li>';
+			}else{
+				htmlStr = htmlStr + '<li><a href="' + items[i] + '" target="_blank">' + items[i] + '</a></li>';
+			}
         }
     }
 
@@ -76,7 +86,7 @@ window.onload = function () {
     mainElem.appendChild(newestFieldElem);
 
     // other urls
-    var otherFieldElem = createFieldElem({title: '最新App下载页', items: otherUrls});
+    var otherFieldElem = createFieldElem({title: '最新App下载页', items: otherUrls, itemsname: otherName});
     mainElem.appendChild(otherFieldElem);
 
     // email

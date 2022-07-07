@@ -16,7 +16,7 @@ var otherUrls = [
 ];
 var foreverUrls = [
     'https://www.tiankongmanhua.com',
-    'https://www.skymanhua.com'
+    'https://www.skymanhua.com',
     'https://www.天空漫画.com'
 ];
 var notices = [

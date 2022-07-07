@@ -70,11 +70,11 @@ window.onload = function () {
     mainElem.appendChild(logoElem);
 
     // newest urls
-    var newestFieldElem = createFieldElem({title: '最新地址', items: newestUrls, text: '请使用https://协议访问天空漫画站'});
+    var newestFieldElem = createFieldElem({title: '请收藏地址发布页', items: newestUrls, text: '请使用https://协议访问天空漫画站'});
     mainElem.appendChild(newestFieldElem);
 
     // other urls
-    var otherFieldElem = createFieldElem({title: '请收藏地址发布页', items: otherUrls});
+    var otherFieldElem = createFieldElem({title: '最新App下载页', items: otherUrls});
     mainElem.appendChild(otherFieldElem);
 
     // email
